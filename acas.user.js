@@ -42,6 +42,7 @@
 // @homepageURL https://psyyke.github.io/A.C.A.S
 // @supportURL  https://github.com/Psyyke/A.C.A.S/tree/main#why-doesnt-it-work
 // @match       https://psyyke.github.io/A.C.A.S/*
+// @match       https://pixel-hawk.github.io/A.C.A.S/*
 // @match       http://localhost/*
 // @match       https://www.chess.com/*
 // @match       https://lichess.org/*
